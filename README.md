@@ -1,0 +1,2 @@
+# appmate-start
+Appmate ionic
